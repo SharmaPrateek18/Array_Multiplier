@@ -13,7 +13,8 @@ The module uses 4 and gates to compute the intermediate products of a and b and 
 **out :** an 8-bit output representing the result of the multiplication
 
 # The module also has some internal wires
-**w1, w2, w3, w4:** 4-bit wires representing the intermediate products of a and b. /n
+**w1, w2, w3, w4:** 4-bit wires representing the intermediate products of a and b.
+
 **s1, s2:** 4-bit wires representing the intermediate sum of the ripple carry adders.
 
 # The module implements the multiplication using the following steps

@@ -6,7 +6,9 @@ The module uses 4 and gates to compute the intermediate products of a and b and 
 # The module has 3 inputs and 1 output
 ## Inputs
 **a :** a 4-bit input representing one of the numbers to be multiplied
+
 **b :** a 4-bit input representing the other number to be multiplied
+
 **out :** an 8-bit output representing the result of the multiplication
 
 ## Outputs
